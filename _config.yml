@@ -122,3 +122,5 @@ profile_categories:
   # - Actions/Hypermedia
   # - Data Modeling
   # - Deep Querying
+
+theme: jekyll-theme-time-machine
